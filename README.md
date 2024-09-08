@@ -1,5 +1,6 @@
 # DietHealthLink
 Analysis of the Association Between Dietary Inflammatory Index (DII) and Arthritis
+
 Overview：
 This repository contains the code for analyzing the association between arthritis and the Dietary Inflammatory Index (DII) using data from the NHANES dataset (2003-2018). The project explores the relationship between DII and the prevalence of arthritis through logistic regression, aiming to determine whether a higher DII score is linked to an increased risk of developing arthritis.
 
